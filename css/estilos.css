@@ -1,0 +1,121 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: black;
+	font: 80.5% "Lucida Grande", "Lucida Sans Unicode", Sans-Serif;
+	color: #000;
+	text-align: left;
+	width: 855px;
+	margin: 0 auto;
+	padding: 0;
+	background: black;
+	}
+
+p,
+ol,
+ul {
+	line-height: 150%;
+	}
+p{
+margin:15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	font-style: normal;
+	font-weight: bold;
+	background: transparent;
+	color: #050d24;
+	}
+
+h1 {
+	font-size: 2.2em;
+	text-align: center;
+	margin-top:8px;
+	}
+h2 {
+	font-size: 1.4em;
+	}
+h3, h4, h5, h6 {
+	font-size: 1em;
+	}
+
+a:link {
+	color: #2f63b3;
+	text-decoration: none;
+	}
+a:visited {
+	color: #2f63b3;
+	text-decoration: none;
+	}
+a:hover {
+	color: #4a5265;
+	text-decoration: underline;
+	}
+a:active {
+	color: #2f63b3;
+	text-decoration: underline;
+	}
+
+header {
+	width: 100%;
+	height: 120px;
+	background: red;
+	}
+nav {
+		clear: both;
+		float: left;
+		width: 100%;
+		height: 60px;
+		
+		}
+
+ul.menu {
+		float: left;
+		margin: 25px;
+		padding: 0 15px;
+		list-style-type: none;
+		}
+ul.menu li {
+		float: left;
+		}
+ul.menu li a {
+		float: left;
+		display: block;
+		height: 28px;
+		padding: 3px 15px 0 15px;
+		line-height: 24px;
+		color: green;
+		}
+section {
+	float: left;
+	width: 560px;
+	height: 900px;
+	background: white;
+	}
+
+aside {
+	float: right;
+	width: 290px;
+	margin: 0;
+	margin-left:10;
+	padding: 0;
+	background: white;
+	}
+footer {
+	float: left;
+	width: 560px;
+	height: 100px;
+	background: red;
+	}
+footer p{
+	text-align: center;
+	font-weight: bold;
+	}
+.club-list-item {
+height:200px;
+}
+.imgleft {
+float: left;
+margin: 5px 15px 5px 5px;
+}

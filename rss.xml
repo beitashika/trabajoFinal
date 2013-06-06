@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>RSS de El gimanasio ADBE</title>
+    <link>http://example.com/</link>
+    <description>Este es el canal RSS del gimnasio</description>
+      <item>
+       <title>Bienvenido a nuestra Web</title>
+       <link>http://localhost/ProyectoFinal/index.html</link>
+	   <description>Podras ver a que nos dedicamos.</description>
+    </item>
+	<item>
+       <title>Instalaciones</title>
+       <link>http://localhost/ProyectoFinal/instalaciones.html</link>
+	   <description>Podras acceder a nuestras instalaciones.</description>
+    </item>
+	<item>
+       <title>Horarios y clases</title>
+       <link>http://localhost/ProyectoFinal/horarios.html</link>
+	   <description>Aqui podras ver horarios de las actividades.</description>
+    </item>
+	<item>
+       <title>Inscripciones ADBE</title>
+       <link>http://localhost/ProyectoFinal/inscripciones.html</link>
+	   <description>Aqui podras ver horarios y inscribirte en el Gimnasio.</description>
+    </item>
+	<item>
+       <title>Entrenadores</title>
+       <link>http://localhost/ProyectoFinal/entrenador.html</link>
+	   <description>Aqui podras ver los diferentes entreandores.</description>
+    </item>
+	<item>
+       <title>Contacto ADBE</title>
+       <link>http://localhost/ProyectoFinal/contacto.html</link>
+       <description>Aqui podras acceder para cualquier consulta.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://localhost/ProyectoFinal/index.html</loc>
+
+      <lastmod>2005-01-01</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://localhost/ProyectoFinal/instalaciones.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>http://localhost/ProyectoFinal/horarios.html</loc>
+
+      <lastmod>2004-12-23</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>http://localhost/ProyectoFinal/inscripcion.html</loc>
+
+      <lastmod>2004-12-23T18:00:15+00:00</lastmod>
+
+      <priority>0.3</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://localhost/ProyectoFinal/entrenador.html</loc>
+
+      <lastmod>2004-11-23</lastmod>
+
+   </url>
+   
+     <url>
+
+      <loc>http://localhost/ProyectoFinal/contacto.html</loc>
+
+      <lastmod>2004-12-23T18:00:15+00:00</lastmod>
+
+      <priority>0.3</priority>
+
+   </url>
+
+</urlset>
